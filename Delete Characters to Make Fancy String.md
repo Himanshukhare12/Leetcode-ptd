@@ -1,6 +1,6 @@
 Problem:
 <br>
-[Two Sum](https://leetcode.com/problems/two-sum/)
+[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
 <br>
 Solution:
 <br>
