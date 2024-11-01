@@ -1,5 +1,9 @@
-Problem:[Two Sum](https://leetcode.com/problems/two-sum/)
+Problem:
+<br>
+[Two Sum](https://leetcode.com/problems/two-sum/)
+<br>
 Solution:
+<br>
 class Solution {
     public String makeFancyString(String s) {
         StringBuilder st=new StringBuilder();
