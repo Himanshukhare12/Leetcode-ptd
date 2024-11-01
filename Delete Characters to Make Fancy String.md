@@ -1,4 +1,4 @@
-Problem:[Delete Characters to Make Fancy String](https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
+Problem:[Two Sum](https://leetcode.com/problems/two-sum/)
 Solution:
 class Solution {
     public String makeFancyString(String s) {
