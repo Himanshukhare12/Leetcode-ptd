@@ -1,4 +1,5 @@
 Leetcode link=https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
+Solution:
 class Solution {
     public String makeFancyString(String s) {
         StringBuilder st=new StringBuilder();
