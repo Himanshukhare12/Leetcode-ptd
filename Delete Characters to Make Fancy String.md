@@ -1,3 +1,9 @@
+Problem:
+<br>
+[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
+<br>
+Solution:
+<br>
 class Solution {
     public String makeFancyString(String s) {
         StringBuilder st=new StringBuilder();
