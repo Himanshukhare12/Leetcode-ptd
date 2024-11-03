@@ -1,6 +1,9 @@
 Problem:
+<br>
 [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02)
+<br>
 Solution:
+<br>
 
 class Solution {
     public boolean isCircularSentence(String sentence) {
