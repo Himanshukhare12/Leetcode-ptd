@@ -1,6 +1,7 @@
 Problem:
 <br>
 [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/?envType=daily-question&envId=2024-11-19)
+<br>
 Solution:
 <br>
 class Solution {
